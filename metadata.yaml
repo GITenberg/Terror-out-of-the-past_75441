@@ -7,6 +7,9 @@ contributor:
     deathdate: 1989
     gutenberg_agent_id: '57276'
     url: http://www.gutenberg.org/2009/agents/57276
+covers:
+- cover_type: archival
+  image_path: 75441-h/images/cover.jpg
 creator:
   author:
     agent_name: Gallun, Raymond Z. (Raymond Zinke)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28382
     wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75441#Terror-out-of-the-past
 gutenberg_issued: '2025-02-22'
 gutenberg_type: Text
 identifiers:
